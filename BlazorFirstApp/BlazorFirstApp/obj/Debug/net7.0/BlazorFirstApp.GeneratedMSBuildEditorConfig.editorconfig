@@ -1,0 +1,127 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorFirstApp
+build_property.RootNamespace = BlazorFirstApp
+build_property.ProjectDir = C:\Users\Massimiliano Isidori\Desktop\Studi\Repository\Blazor\BlazorFirstApp\BlazorFirstApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Massimiliano Isidori\Desktop\Studi\Repository\Blazor\BlazorFirstApp\BlazorFirstApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Pages/Binding1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmluZGluZzEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Pages/Binding2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmluZGluZzIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Pages/Binding3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmluZGluZzMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Pages/Binding4.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmluZGluZzQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Pages/Binding5.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmluZGluZzUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Pages/Binding6.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmluZGluZzYucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Pages/Binding7.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmluZGluZzcucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Pages/City.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2l0eS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Pages/Continent.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGluZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Pages/Country.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRyeS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Pages/Iexample.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWV4YW1wbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Pages/Iexample1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWV4YW1wbGUxLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Pages/Iexample2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWV4YW1wbGUyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Pages/Iexample3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWV4YW1wbGUzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Pages/Iexample4.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWV4YW1wbGU0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Pages/Iexample5.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWV4YW1wbGU1LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Pages/Iexample6.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWV4YW1wbGU2LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Pages/Iexample7.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWV4YW1wbGU3LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Pages/Iexample8.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSWV4YW1wbGU4LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Shared/Layout1.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExheW91dDEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Shared/MyNav.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE15TmF2LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Shared/Nav1.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdjEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Massimiliano Isidori/Desktop/Studi/Repository/Blazor/BlazorFirstApp/BlazorFirstApp/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
